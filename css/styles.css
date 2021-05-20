@@ -4,9 +4,12 @@ body {
   background-color: #ccdad1;
     font-family: 'Josefin Sans', sans-serif;
 }
-article {
+.section {
   background-color: #cac4ce;
+  padding: 1em;
+  margin: 5px;
 }
+
 article a {
     font-size: .8em;
     background-color: #f7ece1;
